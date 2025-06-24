@@ -1,1 +1,1 @@
-# hello-good-wrold-
+This project is maintained by Bo Chen.
